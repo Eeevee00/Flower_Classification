@@ -1,0 +1,7 @@
+0 chrysanthemum
+1 dahlia
+2 daisy
+3 orchid
+4 rose
+5 sunflower
+6 tulip
